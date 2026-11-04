@@ -1,0 +1,39 @@
+docs/design/ui-preview-v1/agent-access.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-115
+docs/design/ui-preview-v1/home.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-136
+docs/design/ui-preview-v1/knowledge.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-132
+docs/design/ui-preview-v1/memory.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-146
+docs/design/ui-preview-v1/shared-line.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-187
+docs/design/ui-preview-v1/home-dark.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-136
+docs/design/ui-preview-v1/logs.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-150
+docs/design/ui-preview-v1/visual-spec.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-85
+docs/design/ui-preview-v1/innerlife.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-111
+docs/design/ui-preview-v1/settings.html
+  s_041296ece10d18::t_d6ac5f29578fba 1-125
+docs/design/ui-preview-v1/README.md
+  s_041296ece10d18::t_d6ac5f29578fba 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1964f849183ff6053a27eb3530ca3b9babdb6ae9",
+  "prompts": {},
+  "sessions": {
+    "s_041296ece10d18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "704e9865-d291-4967-86eb-cf76e0ae17c7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "muluo <mengchao1027@gmail.com>"
+    }
+  }
+}
