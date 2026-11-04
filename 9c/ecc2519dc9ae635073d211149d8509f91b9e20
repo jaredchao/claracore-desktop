@@ -1,0 +1,46 @@
+styles/base-layout.css
+  s_041296ece10d18::t_81e65a34d6b79a 3-4,6-7,9-17,19-23,45-49,51-63
+app.js
+  s_041296ece10d18::t_81e65a34d6b79a 295
+styles/views/document-workspace.css
+  s_041296ece10d18::t_98678148fccb15 261-262,267-288
+  s_041296ece10d18::t_81e65a34d6b79a 1-260,263-266,289-343
+styles/views/shared-world-shell.css
+  s_041296ece10d18::t_81e65a34d6b79a 5
+styles.css
+  s_041296ece10d18::t_81e65a34d6b79a 12
+app/i18n/zh.js
+  s_041296ece10d18::t_81e65a34d6b79a 2011-2012
+index.html
+  s_041296ece10d18::t_81e65a34d6b79a 53
+app/i18n/en.js
+  s_041296ece10d18::t_81e65a34d6b79a 2011-2012
+app/views/home-understanding.js
+  s_041296ece10d18::t_81e65a34d6b79a 1,9-10,69-70,116-126,178-179,183,190,193,297-298,304-309,321-322
+  s_041296ece10d18::t_a9ee4beff495ef 323-324
+docs/UI_DESIGN_LANGUAGE.md
+  s_041296ece10d18::t_81e65a34d6b79a 10-15
+core/tests/home-understanding-smoke.js
+  s_041296ece10d18::t_81e65a34d6b79a 630-641,650
+docs/design/ui-preview-v1/README.md
+  s_041296ece10d18::t_81e65a34d6b79a 3
+  s_041296ece10d18::t_2fc5260f07e48b 7-19,26
+styles/dark-fixes.css
+  s_041296ece10d18::t_23353083e442e5 204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9cecc2519dc9ae635073d211149d8509f91b9e20",
+  "prompts": {},
+  "sessions": {
+    "s_041296ece10d18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "704e9865-d291-4967-86eb-cf76e0ae17c7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "muluo <mengchao1027@gmail.com>"
+    }
+  }
+}
